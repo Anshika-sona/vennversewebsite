@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.e66b3205.css",
-    "main.js": "/my-app/static/js/main.2911b02d.js",
-    "static/js/453.b52427e5.chunk.js": "/my-app/static/js/453.b52427e5.chunk.js",
-    "static/media/VennSocial Logo-05.png": "/my-app/static/media/VennSocial Logo-05.700aabcdf8130c65f6a0.png",
-    "static/media/2.webp": "/my-app/static/media/2.d1650d8a581b8b7243c1.webp",
-    "static/media/4.webp": "/my-app/static/media/4.ed3684a064c46ebdfefb.webp",
-    "static/media/3.webp": "/my-app/static/media/3.f5bd02ff7e34489284fb.webp",
-    "static/media/recruitment.webp": "/my-app/static/media/recruitment.10dbc9f698da8793c372.webp",
-    "index.html": "/my-app/index.html",
-    "main.e66b3205.css.map": "/my-app/static/css/main.e66b3205.css.map",
-    "main.2911b02d.js.map": "/my-app/static/js/main.2911b02d.js.map",
-    "453.b52427e5.chunk.js.map": "/my-app/static/js/453.b52427e5.chunk.js.map"
+    "main.css": "/vennversewebsite/static/css/main.43f700d6.css",
+    "main.js": "/vennversewebsite/static/js/main.f6b04488.js",
+    "static/js/453.b52427e5.chunk.js": "/vennversewebsite/static/js/453.b52427e5.chunk.js",
+    "static/media/VennSocial Logo-05.png": "/vennversewebsite/static/media/VennSocial Logo-05.700aabcdf8130c65f6a0.png",
+    "static/media/2.webp": "/vennversewebsite/static/media/2.d1650d8a581b8b7243c1.webp",
+    "static/media/4.webp": "/vennversewebsite/static/media/4.ed3684a064c46ebdfefb.webp",
+    "static/media/3.webp": "/vennversewebsite/static/media/3.f5bd02ff7e34489284fb.webp",
+    "static/media/recruitment.webp": "/vennversewebsite/static/media/recruitment.10dbc9f698da8793c372.webp",
+    "index.html": "/vennversewebsite/index.html",
+    "main.43f700d6.css.map": "/vennversewebsite/static/css/main.43f700d6.css.map",
+    "main.f6b04488.js.map": "/vennversewebsite/static/js/main.f6b04488.js.map",
+    "453.b52427e5.chunk.js.map": "/vennversewebsite/static/js/453.b52427e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e66b3205.css",
-    "static/js/main.2911b02d.js"
+    "static/css/main.43f700d6.css",
+    "static/js/main.f6b04488.js"
   ]
 }
